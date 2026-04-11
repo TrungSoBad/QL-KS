@@ -1,4 +1,4 @@
-# X-y-d-ng-ph-n-m-m-qu-n-l-ph-ng-kh-ch-s-n-
+# Xây dựng phần mềm quản lý phòng khách sạn
 Các chức năng chính của hệ thống:
 1. Quản lý phòng:
 Chức năng này cho phép người quản lý thực hiện các thao tác liên quan đến phòng trong khách sạn. Cụ thể:
